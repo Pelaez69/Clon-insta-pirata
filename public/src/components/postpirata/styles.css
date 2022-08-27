@@ -1,0 +1,94 @@
+.cartablanca {
+    display: flex;
+    position: relative;
+    box-shadow: 7px 6px 7px 1px rgba(0, 0, 0, 0.4);
+    width: 380px;
+    height: 480px;
+    margin: 100px;
+}
+.imagenprincipal {
+    position: absolute;
+    top: 50px;
+    left: 25px;
+    width: 320px;
+    height: 300px;
+}
+.corazon {
+    position: absolute;
+    top: 360px;
+    left: 25px;
+    width: 25px;
+    
+}
+.globo {
+    position: absolute;
+    top: 350px;
+    left: 60px;
+    width: 40px;
+    
+}
+.mensaje {
+    position: absolute;
+    top: 350px;
+    left: 105px;
+    width: 35px;
+    
+}
+.puntos {
+    position: absolute;
+    top: 8px;
+    left: 300px;
+    width: 35px;
+    
+}
+.guardado {
+    position: absolute;
+    top: 350px;
+    left: 318px;
+    width: 35px;
+    
+}
+.perfil {
+    position: absolute;
+    top: 12px;
+    left: 25px;
+    width: 30px;
+    
+}
+.nick {
+    color: black;
+    font-size: 18px;
+    font-family: Georgia;
+    position: absolute;
+    top: 2px;
+    left: 65px;
+}
+.views {
+    color: black;
+    font-size: 12px;
+    font-family: Georgia;
+    position: absolute;
+    top: 380px;
+    left: 30px;
+}
+.hermenejildo {
+    color: rgb(0, 0, 0);
+    font-size: 12px;
+    font-family: Georgia;
+    position: absolute;
+    top: 400px;
+    left: 30px;
+}
+.all {
+    color: rgb(117, 112, 112);
+    font-size: 12px;
+    font-family: Georgia;
+    position: absolute;
+    top: 420px;
+    left: 30px;
+}
+
+
+
+
+
